@@ -241,7 +241,7 @@ function App() {
   useEffect(() => {
 
     const socket = new WebSocket(
-      "wss://your-backend.onrender.com/ws"
+      "wss://infrasim.onrender.com/ws"
     );
 
     socket.onopen = () => {
