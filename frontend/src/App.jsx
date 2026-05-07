@@ -241,7 +241,7 @@ function App() {
   useEffect(() => {
 
     const socket = new WebSocket(
-      "ws://localhost:8000/ws"
+      "wss://your-backend.onrender.com/ws"
     );
 
     socket.onopen = () => {
