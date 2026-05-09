@@ -25,24 +25,7 @@ Built using:
 ---
 
 # Preview
-
-## Real-Time Observability Dashboard
-
-(Add dashboard screenshot here)
-
----
-
-## Infrastructure Topology
-
-(Add topology screenshot here)
-
----
-
-## Distributed Tracing
-
-(Add tracing screenshot here)
-
----
+(Given Below. Kindly Scroll Down)
 
 # Features
 
